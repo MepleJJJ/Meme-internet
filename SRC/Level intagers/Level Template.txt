@@ -1,0 +1,29 @@
+<Level>
+    <Name>Tester</Name>
+    <Objects>
+        <Object>
+            <Type>Platform</Type>
+            <Position>
+                <X>100</X>
+                <Y>200</Y>
+            </Position>
+            <Size>
+                <Width>200</Width>
+                <Height>50</Height>
+            </Size>
+        </Object>
+        <!-- Add more objects here -->
+    </Objects>
+    <Terrain>
+        <Tiles>
+            <Tile>
+                <Type>Grass</Type>
+                <Position>
+                    <X>0</X>
+                    <Y>0</Y>
+                </Position>
+            </Tile>
+            <!-- Add more tiles here -->
+        </Tiles>
+    </Terrain>
+</Level>

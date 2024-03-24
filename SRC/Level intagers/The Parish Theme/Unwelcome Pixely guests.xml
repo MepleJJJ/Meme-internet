@@ -1,0 +1,34 @@
+<Level>
+    <Name>Unwelcome pixely guests</Name>
+    <Objects>
+        <Object1>
+            <Type>Metal</Type>
+            <Position>
+                <X>14</X>
+                <Y>2</Y>
+            </Position>
+            <Size>
+                <Width>200</Width>
+                <Height>10</Height>
+            </Size>
+        </Object1>
+		<Scoreboard>
+		<X>300<X/>
+		<Y>1<Y/>
+		<Scoreboard/>
+        <!-- Add more objects here -->
+    </Objects>
+    <Terrain>
+        <Tiles>
+            <Tile>
+                <Type>Metal</Type>
+                <Position>
+                    <X>300</X>
+                    <Y>1.1.1.1.1.1.1.1.1.1.-6.1.</Y>
+					<W>4,4,4,0,0,0,1,1,1,1,1,1,<W/>
+                </Position>
+            </Tile>
+            <!-- Add more tiles here -->
+        </Tiles>
+    </Terrain>
+</Level>

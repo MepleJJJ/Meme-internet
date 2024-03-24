@@ -1,0 +1,6 @@
+users:
+  - username: MepleJJJ
+    email: istestimone@email.com
+    password: HelloAssembly
+    role: Admin
+    created_at: 2/19/2024

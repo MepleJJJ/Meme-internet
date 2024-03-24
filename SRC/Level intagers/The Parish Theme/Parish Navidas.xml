@@ -1,0 +1,20 @@
+<Level>
+    <Name>Paris Navidas</Name>
+	<LevelSize>
+	<X>79<X/>
+	<Y>40<Y/>
+	<LevelSize/>
+    <Objects>
+            <Floor>
+			<Y>3, 4, 7, 6, 5, 3, 3, 3, 6, 7, 32, 12, 3, 3, 3, 3, 4, 4,<Y/>
+			<X>45<X/>
+			<Floor/>
+			<Paris>
+			<Pos>5, 4<Pos/>
+			<Paris/>
+        <!-- Add more objects here -->
+    </Objects>
+            <!-- Add more tiles here -->
+        </Tiles>
+    </Terrain>
+</Level>

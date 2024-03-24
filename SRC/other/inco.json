@@ -1,0 +1,5 @@
+{
+    "Assets":{
+        "*.asm": "asm-intel-x86-generic"
+    }
+}

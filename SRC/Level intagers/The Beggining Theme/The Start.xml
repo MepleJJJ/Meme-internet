@@ -1,0 +1,37 @@
+<Level>
+    <Name>The Begining</Name>
+    <Theme>The Begining<Theme/>
+	<Creator>TakeShave<Creator/>
+    <Objects>
+        <Object>
+            <Type>Platform</Type>
+            <Position>
+                <X>100</X>
+                <Y>200</Y>
+            </Position>
+            <Size>
+                <Width>200</Width>
+                <Height>50</Height>
+            </Size>
+        </Object>
+        <Fire> 
+		Position <X>45<X/> <Y>10<Y/>
+		<Fire/>
+		<Tutorial>
+		Position <X> <X/> <Y> <Y/>
+		<Tutorial/>
+    </Objects>
+    <Terrain>
+        <Tiles>
+            <Tile>
+                <Type>Barf</Type>
+                <Position>
+                    <X>1,100</X>
+                    <Y>10</Y>
+                </Position>
+            </Tile>
+            <!-- Add more tiles here -->
+        </Tiles>
+    </Terrain>
+</Level>
+<LevID>1<LevID/>

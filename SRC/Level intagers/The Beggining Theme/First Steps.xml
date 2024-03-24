@@ -1,0 +1,63 @@
+<Level>
+    <Name>First Steps</Name>
+    <Theme>The Begining<Theme/>
+    <Creator>Meps<Creator/>
+    <Objects>
+	<Object2>
+	<type>Castle<Type/>
+	<!--IDK what to add at this place -->
+	<Object2/>
+	<Object3>
+	<Type>Grab<Type/>
+	<Position>
+	<X>12<X/>
+	<Y>7<Y/>
+	<Position/>
+	<objectinfo>
+	<Elictricity/>
+	<objectinfo/>
+	<Position/>
+	<Object3/>
+        <Object1>
+            <Type>Platform</Type>
+            <Position>
+                <X>100</X>
+                <Y>10</Y>
+            </Position>
+            <Size>
+                <Width>2</Width>
+                <Height>3</Height>
+            </Size>
+        </Object>
+        <!-- Add more objects here -->
+    </Objects>
+    <Terrain>
+        <Tiles>
+            <Tile>
+                <Type>Grass</Type>
+                <Position>
+                    <X>12</X>
+                    <Y>1.2.3.4.5.6.7</Y>
+                </Position>
+            </Tile>
+            <!-- Add more tiles here -->
+        </Tiles>
+    </Terrain>
+	<Tools>
+	<ediblesGroup>
+	<Position>
+                <X>13</X>
+                <Y>10</Y>
+            </Position>
+	<Width>13<Width/>
+	<Height>10<Height/>
+	<ediblesGroup/>
+    <bus>
+    <Position>
+    <X>99<X/>
+    <Y>15<Y/>
+    <Position/>
+    <bus/>
+	<Tools/>
+</Level>
+<LevID>2<LevID/>

@@ -1,0 +1,1 @@
+MsgBox"Thank you for installing Meme internet", Title "Meme internet comfirmation"
