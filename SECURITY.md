@@ -10,8 +10,9 @@ currently being supported with security updates.
 |  Prototype  | :x: |
 |  Beta  | :white_check_mark:                |
 |   Alpha | :white_check_mark: |
-|  50 Builds  | :x:                |
-|  Retail  |    ✅|
+|  50 Build ups for updates | :x:                |
+|  Deploy build  |    :x:  |
+| Retail build | ✅  |
 
 ## Reporting a Vulnerability
 
